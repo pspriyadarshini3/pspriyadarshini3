@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Priya Darshini 👋
 
-<!--
-**pspriyadarshini3/pspriyadarshini3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at SRMIST Ramapuram
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Software Development
+- Web Technologies
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills:
+- Python
+- SQL
+- Java
+- C++
+- HTML
+- Power BI
+
+📚 Currently Learning:
+- Python Projects
+- SQL
+- Git & GitHub
+
+🌱 Always eager to learn and build new projects.
